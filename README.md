@@ -1,2 +1,2 @@
 # class3200k
-U:\Shared\GIS\StuData
+Repository for GISC3200k.
